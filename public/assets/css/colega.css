@@ -1,0 +1,47 @@
+/* Estilos para a página de detalhes do colega */
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+}
+
+.Cabeçalho {
+    background-color: #343a40;
+}
+
+.navbar-nav .nav-link {
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.container {
+    margin-top: 20px;
+}
+
+.card {
+    border: none;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+.card-header {
+    background-color: #343a40;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.card-body {
+    background-color: #ffffff;
+}
+
+.card-body p {
+    margin-bottom: 5px;
+}
+
+.card-body a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.card-body a:hover {
+    text-decoration: underline;
+}
